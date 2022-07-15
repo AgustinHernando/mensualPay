@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Introduccion
 
-You can use the [editor on GitHub](https://github.com/AgustinHernando/mensualPay/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+El objetivo de este proyecto fue hacer poner en practica lo que aprendi sobre javascript.
+Yo normalmente agrego mis compras en un grupo de wpp que unicamente sirve para eso y se me ocurrio 
+la idea de hacer un programa simple que sea similar a un chat pero con funcionalidades extra para categorizar compras y obtener gastos mensuales/semanales.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Caracteristicas
+- Operaciones basicas
+- IF / FOR / FOREACH 
+- FILTER / REDUCE
+- REGEX
+- JSON
+- LocalStorage
+- Edicion de template
 
-### Markdown
+La idea es que tu ingreses tal cual lo harias en un chat y con la ayuda de expresiones regulares procesar la entrada y actuar en funcion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AgustinHernando/mensualPay/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Pagina Web](https://agustinhernando2.github.io/). Puedes probarla!
+[Documentacion](https://github.com/AgustinHernando/mensualPay)
