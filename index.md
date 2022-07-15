@@ -16,5 +16,3 @@ la idea de hacer un programa simple que sea similar a un chat pero con funcional
 La idea es que tu ingreses tal cual lo harias en un chat y con la ayuda de expresiones regulares procesar la entrada y actuar en funcion.
 
 [Pagina Web](https://agustinhernando2.github.io/). Puedes probarla!
-
-[Repositorio](https://github.com/AgustinHernando/mensualPay). Puedes revisar el codigo. 
